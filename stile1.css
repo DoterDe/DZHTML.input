@@ -1,0 +1,26 @@
+.p{
+    color: greenyellow;
+    border-color: greenyellow;
+    border-radius: 5px;
+    
+}
+.o{
+    color: brown;
+    border-color: brown;
+    border-radius: 5px;
+}
+.q{
+    border-color: green;
+    background-color: green;
+    background-color: brown;
+}
+.a{
+    background-color: green;
+    border-radius: 20px;
+    color: azure;
+
+}
+.z{
+    border-radius: 50%;
+    background-color: plum;
+}
